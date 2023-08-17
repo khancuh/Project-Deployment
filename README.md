@@ -1,5 +1,5 @@
 # Model deployment 
 
-Student Mark prediction
+Student Mark prediction system with deployment part
 
-https://github.com/khancuh/Project-Deployment/assets/58104706/dc452578-906f-4d0a-9be2-38eddb31011e
+https://github.com/khancuh/Project-Deployment/assets/58104706/bd9f551d-2dae-4ccd-8914-11d3d3e90ea9
